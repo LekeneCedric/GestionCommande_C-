@@ -19,18 +19,11 @@ namespace F_GESTION_COMMANDE_PROJET_CSHARP
         public static List<String> ColorList = new List<string>()
         {
                   
-                   "#8e90bf",
-                   
+                   "#8e90bf",    
                    "#5978bb",
-                    "#CBE3A9",
-                   //#55575A", 
-                    
-                   
-                    "#e9cfed",
-                   
-                    
-                    //6BB9F7",
-                    "#7FD6D7"
+                   "#CBE3A9",      
+                   "#e9cfed",  
+                   "#7FD6D7"
                                
         };
 
